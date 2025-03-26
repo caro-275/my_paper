@@ -9,6 +9,7 @@ Even better instructions here!
 
 
 ## Theory
+Theory is even more important 
 
 ## Conclusion
 
