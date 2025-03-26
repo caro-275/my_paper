@@ -11,4 +11,6 @@ Just use it.
 ## Conclusion
 
 ## Bibliography
-Paper1
+- Paper1
+- Book1
+- Book3
