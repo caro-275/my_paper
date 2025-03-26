@@ -5,7 +5,7 @@
 My second attempt at a paper. 
 
 ## Instruction
-Just use it.
+I have a better instruction now.
 
 ## Theory
 
