@@ -1,4 +1,4 @@
-# my_paper
+# another title for my paper
 
 ## Introduction
 My second attempt at a paper. 
